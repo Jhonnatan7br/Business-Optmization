@@ -10,5 +10,13 @@ Different business cases and problems, to identify efficient and faster ways to 
 #### Scipy Learn documentation about optimization
 > https://docs.scipy.org/doc/scipy/tutorial/optimize.html#optimization-scipy-optimize
 
-### Skitime documentation about forecasting
+#### Skitime documentation about forecasting
 > https://www.sktime.net/en/latest/get_started.html
+
+#### Statsmodel documentation about forecasting and stocasthic
+> https://www.statsmodels.org/stable/index.html
+
+#### Machine learning models for optimization and forecasting
+> https://scikit-learn.org/stable/index.html
+
+#### Markov Chain was created as file on this repository

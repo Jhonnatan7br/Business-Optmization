@@ -8,6 +8,7 @@ Different business cases and problems, to identify efficient and faster ways to 
 > [!IMPORTANT]
 > Read documentación about optimization to reframe or adapt models and cases
 #### Scipy Learn documentation about optimization
-https://docs.scipy.org/doc/scipy/tutorial/optimize.html#optimization-scipy-optimize
+> https://docs.scipy.org/doc/scipy/tutorial/optimize.html#optimization-scipy-optimize
 
-# 
+### Skitime documentation about forecasting
+> https://www.sktime.net/en/latest/get_started.html

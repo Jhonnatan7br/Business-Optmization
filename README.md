@@ -6,7 +6,7 @@
 
 ## Business Optimization and data Analytics
 Different business cases and problems, to identify efficient and faster ways to implement solutions or propose models 
-
+ 
 > [!IMPORTANT]
 > Read documentación about optimization to reframe or adapt models and cases
 #### Scipy Learn documentation about optimization

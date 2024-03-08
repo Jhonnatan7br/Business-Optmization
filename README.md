@@ -1,4 +1,4 @@
-![image](https://github.com/Jhonnatan7br/Business-Optmization/assets/104907786/1fe9b9fe-5f06-4c1d-b62d-2502731e9725)
+![image](https://github.com/Jhonnatan7br/Business-Optmization/assets/104907786/1fe9b9fe-5f06-4c1d-b62d-2502731e9725) 
 
 ![image](https://github.com/Jhonnatan7br/Business-Optmization/assets/104907786/6c160462-533c-4ddf-97ed-18ebde3f1b80)
 

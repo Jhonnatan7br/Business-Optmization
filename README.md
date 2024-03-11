@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Jhonnatan7br/Business-Optmization/assets/104907786/6c160462-533c-4ddf-97ed-18ebde3f1b80)
 
-> Coding and Maths to solve real business problems and optimize the processes
+> Coding and Maths to solve real business problems and optimize the processes 
 
 ## Business Optimization and data Analytics
 Different business cases and problems, to identify efficient and faster ways to implement solutions or propose models 
